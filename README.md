@@ -1,6 +1,6 @@
 # sim
 Java Trading Simulator  
-Tested on Java 17  
+Tested on openjdk 17.0.6 2023-01-17 LTS  
 
 ## Install and Run
 git clone https://github.com/cr35wx/sim/  
