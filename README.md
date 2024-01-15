@@ -10,3 +10,6 @@ java -classpath . Main
   
 OR  
 Clone the project, open it in Intellij, configure a JDK, and run main.  
+
+---
+![Screenshot 2024-01-14 at 7 40 40 PM](https://github.com/cr35wx/sim/assets/60902399/e087da54-38e0-48cf-bc07-1c81ab75126d)
